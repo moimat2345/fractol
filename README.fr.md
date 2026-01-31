@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/covers/cover-fract-ol.png" alt="fract'ol" />
+  <img src="https://raw.githubusercontent.com/15Galan/42_project-readmes/master/banners/cursus/projects/fract-ol-dark.png" alt="fract'ol" />
 </div>
 
 # fract'ol - Explorateur de Fractales
